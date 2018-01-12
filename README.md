@@ -1,8 +1,9 @@
 # COMP 4107 Convolutional-Neural-Networks
 
-Carolyne Pelletier
+Akhil Dalal (me)
 
-Akhil Dalal
+Carolyne Pelletier (github.com/k1c)
+
 
 Modifying Convolutional Neural Networks (CNN) for CIFAR-10 Dataset
 
